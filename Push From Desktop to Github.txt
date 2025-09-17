@@ -1,0 +1,8 @@
+Hello, My Name is Ahsan Tariq and this my submission for a push from 
+local repo on my laptop to Github.
+
+CLASS: CS 208
+Instructor: Shengting Cao
+Assignment: PS1
+
+No Issues faced.
